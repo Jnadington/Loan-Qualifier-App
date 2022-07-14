@@ -26,6 +26,6 @@ Before running the application, first install the following dependencies.
 
 Launching the application will direct you to the following prompts.
 
-![Loan Qualifier Prompts](/Images/example_1.PNG)
+![Loan Qualifier Prompts](../Images/example_1.PNG)
 
 ## 
