@@ -50,8 +50,4 @@ python app.py
 
 Pepperdine Fintech 
 
----
 
-## License
-
-Pepperdine
